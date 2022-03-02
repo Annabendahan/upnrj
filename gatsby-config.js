@@ -12,6 +12,7 @@ module.exports = {
           families: ['Dancing Script', 'Open Sans']
         }
       },
-    }
+    },
+    'gatsby-plugin-netlify'
   ],
 };
