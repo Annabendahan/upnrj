@@ -1,6 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
 import main from '../images/acu/main.png'
+import mainMob from '../images/acu/main-mob.png'
 import p2 from '../images/acu/p2.png'
 
 
@@ -16,12 +17,13 @@ const Acupressure = () => {
             <Layout >
                 <div className="page">
                     <img className="page__main" src={main} alt="main" />
+                    <img className="page__main-mob" src={mainMob} alt="main" />
 
                     <div className="page__box">
                         <div className="page__box__text">
                             <h2> L'acupressure</h2>
                             <p>
-                                Technique de thérapie manuelle d’origine asiatique dérivée du Shiatsu, l’acupressure désigne un type de médecine douce et alternative utilisant la pression des doigts sur différentes parties du corps humain.
+                                Technique de thérapie manuelle d’origine asiatique dérivée du Shiatsu, l’acupressure désigne <span className="bold">un type de médecine douce et alternative utilisant la pression des doigts sur différentes parties du corps humain.</span>
 
                                 Également appelée ‘acupression’ ou ‘digipuncture’, cette technique naturelle vise à :
                                 <br />
@@ -37,7 +39,7 @@ const Acupressure = () => {
                                 - Améliorer la qualité du sommeil.
                                 <br />  <br />
 
-                                L’acupressure est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.</p>
+                                <span className="bold"> L’acupressure est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.</span></p>
 
                         </div>
                         <div className="page__box__img">

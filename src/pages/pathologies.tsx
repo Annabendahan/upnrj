@@ -1,6 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
 import main from '../images/path/main.png'
+import mainMob from '../images/path/main-mob.png'
 import p2 from '../images/path/p2.png'
 import Grid from '@mui/material/Grid';
 
@@ -18,6 +19,7 @@ const Pathologies = () => {
             <Layout >
                 <div className="page">
                     <img className="page__main" src={main} alt="main" />
+                    <img className="page__main-mob" src={mainMob} alt="main" />
 
                     <div className="page__box">
                         <div className="page__box__text">
@@ -26,7 +28,7 @@ const Pathologies = () => {
                                 Vous trouverez ci-dessous une liste des problèmes et pathologies pouvant être traités par les différentes techniques énergétiques énoncées.
                                 <br />
                                 <br />
-                                Pendant toute la durée des soins, un suivi régulier est effectué afin de prendre connaissance des différentes phases de l’évolution vers la guérison.
+                                Pendant toute la durée des soins, un  <span className="bold">suivi régulier</span> est effectué afin de prendre connaissance des différentes phases de l’évolution vers la <span className="bold">guérison</span>.
                             </p>
                         </div>
                         <div className="page__box__img">
@@ -36,7 +38,7 @@ const Pathologies = () => {
                     </div>
                     <div className="page__grid">
 
-                        <Grid container spacing={2}>
+                        <Grid container spacing={4}>
                             <Grid item xs={12} md={3}>
                                 <div className="page__grid__card">
                                     <p>
@@ -119,8 +121,8 @@ const Pathologies = () => {
                                         - Mycose<br />
                                         - Verrues<br />
                                         - Cicatrisation<br />
-                                        - Coupure<br />
-                                        - Brûlure</p>
+                                        - Coupure, brûlure<br />
+                                    </p>
                                 </div>
                             </Grid>
 

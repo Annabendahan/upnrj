@@ -5,6 +5,7 @@ import { Link } from 'gatsby';
 
 import '../components/style.scss'
 import main from '../images/accueil/main.png'
+import mainMob from '../images/accueil/main-mob.png'
 import p2 from '../images/accueil/p2.png'
 import p3 from '../images/accueil/p3.png'
 import p4 from '../images/accueil/p4.png'
@@ -22,6 +23,7 @@ const IndexPage = () => {
       <Layout >
         <div className="page">
           <img className="page__main" src={main} alt="main" />
+          <img className="page__main-mob" src={mainMob} alt="main" />
           <div className="page__box">
             <div className="page__box__text">
               <h2> Vous n’êtes pas ici par hasard !</h2>
@@ -41,14 +43,14 @@ const IndexPage = () => {
             <div className="page__pres__content">
               <h2> Qui suis-je ? </h2>
               <p>
-                Je suis praticien de techniques visant à ré-équilibrer les énergies du corps ou débloquer les nœuds énergétiques pour favoriser la guérison.
+                Je suis praticien de techniques visant à <b>ré-équilibrer les énergies du corps</b> ou débloquer les nœuds énergétiques pour favoriser la guérison.
                 <br />
-                Je me suis rendu compte il y a de nombreuses années, de manière tout à fait fortuite, que je possédai cette faculté de soulager la douleur.
+                Je me suis rendu compte il y a de nombreuses années, de manière tout à fait fortuite, que je possédai cette  <b>faculté de soulager la douleur.</b>
                 <br /><br />
 
                 Une amie se plaignait de douleurs dorsales. Sans en comprendre la raison, j’ai instinctivement posé mes mains sur son dos. Elle a aussitôt senti une chaleur intense et il n’a fallu que quelques minutes pour que la douleur s’atténue et enfin disparaisse.
               </p>
-              <div className="page__pres__box">
+              <div className="page__pres__box ">
 
                 <div className="page__pres__box__img">
                   <img src={pascal} alt="main" />
@@ -65,7 +67,7 @@ const IndexPage = () => {
                     Je suis déclaré à l’URSAFF dans le cadre d’une activité de santé humaine.
                     <br /><br />
 
-                    Toutes ces techniques ont un point commun: La mémoire cellulaire.
+                    Toutes ces techniques ont un point commun: <b>La mémoire cellulaire.</b><br />
                     L’ensemble est décrit dans les différents onglets du site.
                   </p>
                 </div>
@@ -81,18 +83,18 @@ const IndexPage = () => {
                 <img src={p3} alt="main" />
                 <p>MAGNÉTISME</p>
               </Link>
-              <Link to="/magnetisme" className="page__soins__card">
+              <Link to="/reiki" className="page__soins__card">
                 <img src={p4} alt="main" />
                 <p>REIKI</p>
               </Link>
             </div>
             <div className="page__soins__line">
-              <Link to="/magnetisme" className="page__soins__card">
+              <Link to="/acupressure" className="page__soins__card">
                 <img src={p5} alt="main" />
                 <p>ACCUPRESSURE</p>
 
               </Link>
-              <Link to="/magnetisme" className="page__soins__card">
+              <Link to="/fasciatherapie" className="page__soins__card">
                 <img src={p6} alt="main" />
                 <p>FASCIATHÉRAPIE</p>
               </Link>

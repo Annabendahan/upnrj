@@ -1,6 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
-import main from '../images/acu/main.png'
+import main from '../images/con/main.png'
+import mainMob from '../images/con/main-mob.png'
 import pascal from '../images/pascal.png'
 
 
@@ -16,6 +17,7 @@ const Contact = () => {
             <Layout >
                 <div className="page">
                     <img className="page__main" src={main} alt="main" />
+                    <img className="page__main-mob" src={mainMob} alt="main" />
 
                     <div className="page__box">
                         <div className="page__box__text">
@@ -25,8 +27,10 @@ const Contact = () => {
                                 Je vous reçois sur rendez-vous du lundi au samedi à mon cabinet au
                                 70 rue du Clos Bernard à Rosières (60440)                                <br />
                                 <br />
-                                06 61 38 84 70   <br />
-                                Upnrj@orange.fr   <br />
+                                <span className="bold">
+                                    06 61 38 84 70   <br />
+                                    Upnrj@orange.fr   <br />
+                                </span>
                                 <br />
                                 Merci de me contacter 5 minutes avant votre arrivée et de respecter l’heure de rendez-vous car je n’ai pas de salle d’attente.
                             </p>
