@@ -12,6 +12,10 @@
         width: 40px;
     }
     &__tabs {
+        display: none;
+        @include breakpoint(s) {
+            display: block;
+        }
         a {
             margin: 10px;
             color: #383838;
@@ -255,6 +259,9 @@
 
 .menu {
     background: white;
+    @include breakpoint(s) {
+        display: none;
+    }
 
     &__item {
         position: fixed;
