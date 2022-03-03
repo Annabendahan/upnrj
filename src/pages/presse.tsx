@@ -17,7 +17,7 @@ import '../components/style.scss'
 const Contact = () => {
     return (
         <main>
-            <title>Contact et tarifs</title>
+            <title>Presse</title>
             <Layout >
                 <div className="page">
 

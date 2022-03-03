@@ -19,7 +19,7 @@ import pascal from '../images/pascal.png'
 const IndexPage = () => {
   return (
     <main>
-      <title>Home Page</title>
+      <title>Accueil</title>
       <Layout >
         <div className="page">
           <img className="page__main" src={main} alt="main" />
