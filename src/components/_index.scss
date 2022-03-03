@@ -105,6 +105,11 @@
         }
         &__rev {
             background: #f6f6f6;
+            display: flex;
+            flex-direction: column-reverse;
+            @include breakpoint(m) {
+                flex-direction: row;
+            }
         }
     }
     &__main {
