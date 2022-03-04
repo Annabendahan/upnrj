@@ -63,7 +63,7 @@ const IndexPage = () => {
                     Au fil du temps, j’ai acquis de l’expérience et, pour en faire mon activité professionnelle, j’ai souhaité la compléter avec d’autres techniques énergétiques, telles que le Reïki.<br /><br />
 
 
-                    Un 2ème dégré de praticien Reïki me permet maintenant de proposer, avec le magnétisme, l’accupressure et la fasciathérapie, un panel de traitements adaptés à la plupart des pathologies.
+                    Un 2ème dégré de praticien <b>Reïki</b> me permet maintenant de proposer, avec le <b>magnétisme</b>, <b>l’accupressure</b> et <b>la fasciathérapie</b>, un panel de traitements adaptés à la plupart des pathologies.
                     Je suis déclaré à l’URSAFF dans le cadre d’une activité de santé humaine.
                     <br /><br />
 
@@ -103,7 +103,7 @@ const IndexPage = () => {
 
         </div>
       </Layout>
-    </main>
+    </main >
   )
 }
 

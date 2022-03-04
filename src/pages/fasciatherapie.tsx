@@ -50,14 +50,14 @@ const Fasciatherapie = () => {
                                 La fasciathérapie est notamment indiquée pour :
                                 <br /> <br />
 
-                                - Les personnes anxieuses, en situation de <span className="bold">stress</span>, de <span className="bold">fatigue</span>, de <span className="bold">burn-out</span>, etc.
+                                ● Les personnes anxieuses, en situation de <span className="bold">stress</span>, de <span className="bold">fatigue</span>, de <span className="bold">burn-out</span>, etc.
                                 <br />
-                                - Les douleurs chroniques telles que l’arthrose, les lombalgies, les cervicalgies, la fibromyalgie, les rhumatismes.
+                                ● Les douleurs chroniques telles que l’arthrose, les lombalgies, les cervicalgies, la fibromyalgie, les rhumatismes.
                                 <br />
-                                - Les <span className="bold">douleurs aiguës</span>, telles que les lumbagos, les sciatiques, les cruralgies, les torticolis, les tendinites.
-                                <br />- La <span className="bold">traumatologie </span>: entorses, pathologies musculaires, après une intervention chirurgicale, en médecine du sport.
-                                <br /> - Les pathologies de la sphère crânienne : céphalées, migraines, névralgies d’Arnold ou du trijumeau, acouphènes.
-                                <br /> - Les pathologies de la sphère abdominale et uro-gynécologiques : troubles du transit, syndrome du côlon irritable, névralgies pudendales, règles douloureuses.
+                                ● Les <span className="bold">douleurs aiguës</span>, telles que les lumbagos, les sciatiques, les cruralgies, les torticolis, les tendinites.
+                                <br />● La <span className="bold">traumatologie </span>: entorses, pathologies musculaires, après une intervention chirurgicale, en médecine du sport.
+                                <br />● Les pathologies de la sphère crânienne : céphalées, migraines, névralgies d’Arnold ou du trijumeau, acouphènes.
+                                <br />● Les pathologies de la sphère abdominale et uro-gynécologiques : troubles du transit, syndrome du côlon irritable, névralgies pudendales, règles douloureuses.
 
 
                             </p>

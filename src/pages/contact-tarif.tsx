@@ -28,10 +28,12 @@ const Contact = () => {
                                 70 rue du Clos Bernard à Rosières (60440)                                <br />
                                 <br />
                                 <span className="bold">
-                                    06 61 38 84 70   <br />
-                                    Upnrj@orange.fr   <br />
+                                    Tel: 06 61 38 84 70   <br />
+                                    Mail: Upnrj@orange.fr   <br />
                                 </span>
                                 <br />
+                                Le tarif de la 1ère séance (1h30) et des séances suivantes (1h) est de 50€.
+                                <br /> <br />
                                 Merci de me contacter 5 minutes avant votre arrivée et de respecter l’heure de rendez-vous car je n’ai pas de salle d’attente.
                             </p>
                         </div>

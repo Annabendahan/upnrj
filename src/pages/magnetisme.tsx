@@ -25,8 +25,8 @@ const Magnetisme = () => {
                             <h2> Le magnétisme,
                                 une médecine douce.</h2>
                             <p>
-                                La pratique du magnétisme date de temps immémoriaux.
-                                Il consiste à <span className="bold">transférer l’énergie personnelle du magnétiseur à son client</span>. Les mains restant le vecteur du transfert de l’énergie. Le transfert d’énergie effectué, le receveur peut entamer sa guérison. Dans le cas du magnétisme l’action s’opère au niveau physique ou psychique.
+                                La pratique du magnétisme est ancestrale
+                                Il consiste à <span className="bold">transférer l’énergie personnelle du magnétiseur au receveur</span>. Les mains restant le vecteur du transfert de l’énergie. Le transfert d’énergie effectué, le receveur peut entamer sa guérison. L’action s’opère au niveau physique ou psychique.
                                 <br /><br />
 
                                 Au niveau physique, les effets sont ressentis rapidement, progressivement ou instantanément. Néanmoins, certaines pathologies nécessitent plusieurs séances (notamment dans le cas de douleurs chroniques).
@@ -46,11 +46,12 @@ const Magnetisme = () => {
                             <p> C’est aussi le cas au <span className="bold">niveau psychique</span>, où la plupart des pathologies (stress, dépression, insomnies, …) nécessite plusieurs séances.
                                 Enfin, la réceptivité de chacun influe sur les résultats et la rapidité pour les atteindre.
                                 <br /><br />
+                                <span className="bold">
 
-                                Dans tous les cas, le magnétisme est sans effet secondaire.
-                                <br /><br />
+                                    Dans tous les cas, le magnétisme est sans effet secondaire.
+                                    <br /><br />
 
-                                <span className="bold">Le magnétisme est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.</span>
+                                    Le magnétisme est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.</span>
                             </p>
                         </div>
                     </div>

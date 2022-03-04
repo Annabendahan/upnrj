@@ -4,6 +4,8 @@ import main from '../images/reiki/main.png'
 import mainMob from '../images/reiki/main-mob.png'
 import p2 from '../images/reiki/p2.png'
 import p3 from '../images/reiki/p3.png'
+import { Link } from 'gatsby';
+
 
 
 
@@ -29,7 +31,7 @@ const Reiki = () => {
 
                                 La pratique du Reiki intervient donc dans <span className="bold">l’harmonisation de l’énergie universelle avec l’énergie vitale</span> présente en chacun de nous.
                                 <br /><br />
-                                Avec la méthode Reiki, le praticien centralise les énergies telluriques, c’est à dire les énergies qui l’entourent, avant de la diffuser à son client. Il s’agit d’un traitement bien-être en profondeur.
+                                Avec la méthode Reiki, le praticien centralise les énergies telluriques, c’est à dire les énergies qui l’entourent, avant de la diffuser au receveur. Il s’agit d’un traitement bien-être en profondeur.
 
 
                             </p>
@@ -45,11 +47,11 @@ const Reiki = () => {
                             <img src={p3} alt="main" />
                         </div>
                         <div className="page__box__text">
-                            <p> En agissant sur les corps physiques, énergétiques et émotionnels, l’énergie Reiki peut rééquilibrer les causes profondes du problème.
+                            <p> En agissant sur les corps physiques, énergétiques et émotionnels, l’énergie Reiki peut rééquilibrer les causes profondes d'un problème.
                                 Ainsi en prônant le « lâcher-prise », le praticien Reiki ne peut guider l’énergie, mais la laisse circuler là où il y en a besoin, permettant le rééquilibrage énergétique de son client.
                                 <br /><br />
 
-                                Voir aussi l’onglet Mémoire cellulaire                                <br /><br />
+                                Voir aussi l’onglet  <Link to="/memoire-cellulaire"><span className="bold">Mémoire cellulaire  </span>    </Link>                          <br /><br />
                                 <span className="bold">
                                     Le Reïki est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.
                                 </span>
