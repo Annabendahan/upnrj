@@ -25,11 +25,11 @@ const Magnetisme = () => {
                             <h2> Le magnétisme,
                                 une médecine douce.</h2>
                             <p>
-                                La pratique du magnétisme est ancestrale
+                                La pratique du magnétisme est ancestrale.<br />
                                 Il consiste à <span className="bold">transférer l’énergie personnelle du magnétiseur au receveur</span>. Les mains restant le vecteur du transfert de l’énergie. Le transfert d’énergie effectué, le receveur peut entamer sa guérison. L’action s’opère au niveau physique ou psychique.
                                 <br /><br />
 
-                                Au niveau physique, les effets sont ressentis rapidement, progressivement ou instantanément. Néanmoins, certaines pathologies nécessitent plusieurs séances (notamment dans le cas de douleurs chroniques).
+                                Au niveau physique, les effets sont ressentis rapidement, de manière progressive ou instantanée. Néanmoins, certaines pathologies nécessitent plusieurs séances<br /> (notamment dans le cas de douleurs chroniques).
                             </p>
 
                         </div>

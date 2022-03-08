@@ -25,6 +25,7 @@ const Contact = () => {
                             <p>
                                 Pascal NEYRAT <br />   <br />
                                 Je vous reçois sur rendez-vous du lundi au samedi à mon cabinet au
+                                <br />
                                 70 rue du Clos Bernard à Rosières (60440)                                <br />
                                 <br />
                                 <span className="bold">

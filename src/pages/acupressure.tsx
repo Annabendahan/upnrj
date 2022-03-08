@@ -13,7 +13,7 @@ import '../components/style.scss'
 const Acupressure = () => {
     return (
         <main>
-            <title>Acupressure</title>
+            <title>Acupression</title>
             <Layout >
                 <div className="page">
                     <img className="page__main" src={main} alt="main" />
@@ -21,11 +21,11 @@ const Acupressure = () => {
 
                     <div className="page__box">
                         <div className="page__box__text">
-                            <h2> L'acupressure</h2>
+                            <h2> L'acupression</h2>
                             <p>
-                                Technique de thérapie manuelle d’origine asiatique dérivée du Shiatsu, l’acupressure désigne <span className="bold">un type de médecine douce et alternative utilisant la pression des doigts sur différentes parties du corps humain.</span>   <br />   <br />
+                                Technique de thérapie manuelle d’origine asiatique dérivée du Shiatsu, l’acupression désigne <span className="bold">un type de médecine douce et alternative utilisant la pression des doigts sur différentes parties du corps humain.</span>   <br />   <br />
 
-                                Également appelée ‘acupression’ ou ‘digipuncture’, cette technique naturelle vise à :
+                                Également appelée 'digiponcture', cette technique naturelle vise à :
                                 <br />
                                 <br />
                                 ● Aider à soulager la douleur ;
@@ -39,7 +39,7 @@ const Acupressure = () => {
                                 ● Améliorer la qualité du sommeil.
                                 <br />  <br />
 
-                                <span className="bold"> L’acupressure est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.</span></p>
+                                <span className="bold"> L’acupression est un complément précieux et bénéfique au traitement médical qu’il ne faut pas interrompre sans l’avis de votre médecin.</span></p>
 
                         </div>
                         <div className="page__box__img">

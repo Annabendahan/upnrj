@@ -48,7 +48,7 @@ const Reiki = () => {
                         </div>
                         <div className="page__box__text">
                             <p> En agissant sur les corps physiques, énergétiques et émotionnels, l’énergie Reiki peut rééquilibrer les causes profondes d'un problème.
-                                Ainsi en prônant le « lâcher-prise », le praticien Reiki ne peut guider l’énergie, mais la laisse circuler là où il y en a besoin, permettant le rééquilibrage énergétique de son client.
+                                Ainsi en prônant le « lâcher-prise », le praticien Reiki ne guide pas l’énergie, mais la laisse circuler là où il y en a besoin, permettant ainsi le rééquilibrage énergétique du receveur.
                                 <br /><br />
 
                                 Voir aussi l’onglet  <Link to="/memoire-cellulaire"><span className="bold">Mémoire cellulaire  </span>    </Link>                          <br /><br />

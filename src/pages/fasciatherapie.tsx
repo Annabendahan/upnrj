@@ -24,7 +24,7 @@ const Fasciatherapie = () => {
                         <div className="page__box__text">
                             <h2> La fasciathérapie</h2>
                             <p>
-                                Les fascias, ces  <span className="bold">membranes souples reliées aux muscles</span>, aux os, aux vaisseaux, aux ligaments, aux nerfs et aux viscères, réagissent et s’ajustent continuellement en fonction de nos activités physiques et psychiques.
+                                <span className="bold">Les fascias</span>, ces membranes souples reliées aux muscles, aux os, aux vaisseaux, aux ligaments, aux nerfs et aux viscères, réagissent et s’ajustent continuellement en fonction de nos activités physiques et psychiques.
                                 <br /> <br />
 
                                 Sous l’effet du stress ou de l’anxiété par exemple, ils se raidissent ou se crispent en fonction de l’importance des stimuli. A force de sollicitations importantes et répétées, les fascias n’arrivent plus à retrouver leur souplesse et leur mobilité naturelles. Cet <span className="bold">état de forte tension </span>s’installe dans la durée et s’accompagne de fatigue, d’une perte de la sensation de fluidité des mouvements, de dysfonctionnements articulaires, digestifs, circulatoires, etc.
@@ -50,14 +50,14 @@ const Fasciatherapie = () => {
                                 La fasciathérapie est notamment indiquée pour :
                                 <br /> <br />
 
-                                ● Les personnes anxieuses, en situation de <span className="bold">stress</span>, de <span className="bold">fatigue</span>, de <span className="bold">burn-out</span>, etc.
+                                ● Les personnes anxieuses, en situation de <span className="bold">stress</span>, de <span className="bold">fatigue</span>, de <span className="bold">burn-out</span>.
                                 <br />
-                                ● Les douleurs chroniques telles que l’arthrose, les lombalgies, les cervicalgies, la fibromyalgie, les rhumatismes.
+                                ● Les <span className="bold">douleurs chroniques</span> telles que l’arthrose, les douleurs dorsales, les rhumatismes.
                                 <br />
                                 ● Les <span className="bold">douleurs aiguës</span>, telles que les lumbagos, les sciatiques, les cruralgies, les torticolis, les tendinites.
                                 <br />● La <span className="bold">traumatologie </span>: entorses, pathologies musculaires, après une intervention chirurgicale, en médecine du sport.
-                                <br />● Les pathologies de la sphère crânienne : céphalées, migraines, névralgies d’Arnold ou du trijumeau, acouphènes.
-                                <br />● Les pathologies de la sphère abdominale et uro-gynécologiques : troubles du transit, syndrome du côlon irritable, névralgies pudendales, règles douloureuses.
+                                <br />● Les pathologies de la <span className="bold">sphère crânienne</span> : céphalées, migraines, acouphènes.
+                                <br />● Les pathologies de la <span className="bold">sphère abdominale et uro-gynécologiques</span> : troubles du transit, syndrome du côlon irritable, règles douloureuses.
 
 
                             </p>

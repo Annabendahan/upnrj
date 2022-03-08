@@ -31,7 +31,7 @@ const MemoireCellulaire = () => {
                             <p>
                                 Le  bien-être du corps est lié à la <span className="bold">qualité des émotions</span>.
                                 <br /><br />
-                                Le corps manifeste de manière intelligente toutes ses frustrations, ses souffrances, ses colères par un langage subtil. Lorsque l’esprit refuse de l’écouter, celui-ci crée des maux physiques voire chroniques qui ne sont que les manifestations de nos émotions conflictuelles refoulées. Les centres énergétiques seront alors perturbés dans leur bon fonctionnement ne laissant <span className="bold">plus circuler l’énergie de manière harmonieuse</span>.
+                                Le corps manifeste de manière intelligente toutes ses frustrations, ses souffrances, ses colères, par un langage subtil. Lorsque l’esprit refuse de l’écouter, celui-ci crée des maux physiques voire chroniques, qui ne sont que les manifestations de nos émotions conflictuelles refoulées. Les centres énergétiques seront alors perturbés dans leur bon fonctionnement ne laissant <span className="bold">plus circuler l’énergie de manière harmonieuse</span>.
 
 
                             </p>
@@ -49,7 +49,7 @@ const MemoireCellulaire = () => {
                         <div className="page__box__text">
                             <p> Cette technique particulière de mémoire cellulaire issue de la sagesse tibétaine permet d’<span className="bold">augmenter la résonance énergétique des corps subtils et d’en expulser les particules polluantes</span>. Ainsi les tensions sont relâchées, la mémoire cellulaire se débarrassant petit à petit de ses couches encombrantes du passé.
                                 <br /><br />
-                                Une forme de libération et de légèreté tant physique que psychique est perçue, activant ainsi la régénération des cellules. Apaisement et équilibre se feront ressentir, objectivité, lucidité et confiance se développeront. L’intuition également sera nettement améliorée. Cependant une fois que la réinitialisation aura été initialisé, il est important de faire un travail conscient afin de préserver ses énergies.
+                                Une forme de libération et de légèreté tant physique que psychique est perçue, activant ainsi la régénération des cellules. Apaisement et équilibre se feront ressentir, objectivité, lucidité et confiance se développeront. L’intuition également sera nettement améliorée. Cependant une fois que la réinitialisation sera faite, il sera important de faire un travail conscient afin de préserver ses énergies.
                                 <br /><br />
                                 Apprendre à nous protéger, à <span className="bold">renforcer notre Être intérieur</span> est primordial pour retrouver notre équilibre naturel et préserver notre santé.
 
@@ -81,9 +81,9 @@ const MemoireCellulaire = () => {
                             <img src={p5} alt="main" />
                         </div>
                         <div className="page__box__text">
-                            <p> Au cours de la transmission, vous recevez l’Énergie qui correspondra parfaitement à vos besoins afin d’activer la <span className="bold">purification des Chakras</span>.
+                            <p> Au cours de la transmission, vous recevez l’Énergie qui correspond parfaitement à vos besoins afin d’activer la <span className="bold">purification des Chakras</span>.
                                 <br /><br />
-                                “A l’écoute de mon moi-profond, je serai capable d’identifier mes désirs et mes aspirations et
+                                “<span className="bold">A l’écoute de mon moi-profond</span>, je serai capable d’identifier mes désirs et mes aspirations et
                                 d’atteindre mes objectifs en toute sérénité.”
                                 <br /><br />
                                 Ce traitement est délivré lors de séances de Reïki.

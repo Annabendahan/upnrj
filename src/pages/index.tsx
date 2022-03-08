@@ -45,7 +45,7 @@ const IndexPage = () => {
               <p>
                 Je suis praticien de techniques visant à <b>ré-équilibrer les énergies du corps</b> ou débloquer les nœuds énergétiques pour favoriser la guérison.
                 <br />
-                Je me suis rendu compte il y a de nombreuses années, de manière tout à fait fortuite, que je possédai cette  <b>faculté de soulager la douleur.</b>
+                Je me suis rendu compte il y a de nombreuses années, de manière tout à fait fortuite, que je possédais cette  <b>faculté de soulager la douleur.</b>
                 <br /><br />
 
                 Une amie se plaignait de douleurs dorsales. Sans en comprendre la raison, j’ai instinctivement posé mes mains sur son dos. Elle a aussitôt senti une chaleur intense et il n’a fallu que quelques minutes pour que la douleur s’atténue et enfin disparaisse.
@@ -63,7 +63,7 @@ const IndexPage = () => {
                     Au fil du temps, j’ai acquis de l’expérience et, pour en faire mon activité professionnelle, j’ai souhaité la compléter avec d’autres techniques énergétiques, telles que le Reïki.<br /><br />
 
 
-                    Un 2ème dégré de praticien <b>Reïki</b> me permet maintenant de proposer, avec le <b>magnétisme</b>, <b>l’accupressure</b> et <b>la fasciathérapie</b>, un panel de traitements adaptés à la plupart des pathologies.
+                    Un 2ème dégré de praticien <b>Reïki</b> me permet maintenant de proposer, avec le <b>magnétisme</b>, <b>l’acupressure</b> et <b>la fasciathérapie</b>, un panel de traitements adaptés à la plupart des pathologies.
                     Je suis déclaré à l’URSAFF dans le cadre d’une activité de santé humaine.
                     <br /><br />
 
@@ -91,7 +91,7 @@ const IndexPage = () => {
             <div className="page__soins__line">
               <Link to="/acupressure" className="page__soins__card">
                 <img src={p5} alt="main" />
-                <p>ACCUPRESSURE</p>
+                <p>ACUPRESSURE</p>
 
               </Link>
               <Link to="/fasciatherapie" className="page__soins__card">

@@ -146,7 +146,7 @@ const Pathologies = () => {
                                         - Anxiété<br />
                                         - Phobies<br />
                                         - Troubles du sommeil<br />
-                                        - Problèmes de tension artérielle
+
                                     </p>
                                 </div>
                             </Grid>

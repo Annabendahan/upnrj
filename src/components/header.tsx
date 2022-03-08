@@ -23,7 +23,7 @@ const Header = () => {
                     <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/">ACCUEIL</Link>
                     <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/magnetisme">MAGNÉTISME</Link>
                     <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/reiki">SOINS ÉNÉRGETIQUES (REIKI) </Link>
-                    <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/acupressure">ACUPRESSURE</Link>
+                    <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/acupressure">ACUPRESSION</Link>
                     <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/fasciatherapie">FASCIATHÉRAPIE</Link>
                 </div>
                 <div>

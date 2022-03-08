@@ -249,6 +249,17 @@
             p {
                 margin-bottom: 7px;
             }
+            &:hover > h6 {
+                text-decoration: underline;
+            }
+            h6 {
+            }
+
+            &__arrow {
+                width: 15px;
+                margin-bottom: -4px;
+                margin-left: 5px;
+            }
         }
     }
 }
