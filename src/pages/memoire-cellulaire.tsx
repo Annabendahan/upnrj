@@ -31,7 +31,7 @@ const MemoireCellulaire = () => {
                             <p>
                                 Le  bien-être du corps est lié à la <span className="bold">qualité des émotions</span>.
                                 <br /><br />
-                                Le corps manifeste de manière intelligente toutes ses frustrations, ses souffrances, ses colères, par un langage subtil. Lorsque l’esprit refuse de l’écouter, celui-ci crée des maux physiques voire chroniques, qui ne sont que les manifestations de nos émotions conflictuelles refoulées. Les centres énergétiques seront alors perturbés dans leur bon fonctionnement ne laissant <span className="bold">plus circuler l’énergie de manière harmonieuse</span>.
+                                Le corps manifeste de manière intelligente toutes ses frustrations, ses souffrances, ses colères, par un langage subtil. Lorsque l’esprit refuse de l’écouter, celui-ci crée des maux physiques voire chroniques, qui ne sont que les manifestations de nos émotions conflictuelles refoulées. Les centres énergétiques sont alors perturbés dans leur bon fonctionnement ne laissant <span className="bold">plus circuler l’énergie de manière harmonieuse</span>.
 
 
                             </p>
