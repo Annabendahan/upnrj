@@ -60,11 +60,11 @@ const IndexPage = () => {
                     Puis, au fil des années, je proposai spontanément un traitement express pour soulager les douleurs de mes proches.
                     <br /><br />
 
-                    Au fil du temps, j’ai acquis de l’expérience et, pour en faire mon activité professionnelle, j’ai souhaité la compléter avec d’autres techniques énergétiques, telles que le Reïki.<br /><br />
+                    Au fil du temps, j’ai acquis de l’expérience et, pour en faire mon activité professionnelle, j’ai souhaité la compléter avec  d’autres techniques telles que le Reiki et l’Hypnose. <br /><br />
 
 
                     Un 2ème dégré de praticien <b>Reïki</b> me permet maintenant de proposer, avec le <b>magnétisme</b>, <b>l’acupression</b> et <b>la fasciathérapie</b>, un panel de traitements adaptés à la plupart des pathologies.
-                    Je suis déclaré à l’URSAFF dans le cadre d’une activité de santé humaine.
+                    Une formation certifiée d’un <b>diplôme d’Hypnothérapeute</b> apporte une efficacité accrue lors des soins que je délivre pour de nombreuses pathologies. <br /> Je suis déclaré à l’URSAFF dans le cadre d’une activité de santé humaine.
                     <br /><br />
 
                     Toutes ces techniques ont un point commun: <b>La mémoire cellulaire.</b><br />

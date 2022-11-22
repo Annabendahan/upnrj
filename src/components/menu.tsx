@@ -26,6 +26,7 @@ const Menu = () => {
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/"><p>ACCUEIL</p></Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/magnetisme"><p>MAGNÉTISME</p></Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/reiki"><p>SOINS ÉNÉRGETIQUES (REIKI)</p> </Link>
+                <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/hypnose"><p>HYPNOSE</p> </Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/acupression"><p>ACUPRESSION</p></Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/fasciatherapie"><p>FASCIATHÉRAPIE</p></Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/memoire-cellulaire"><p>MÉMOIRE CÉLLULAIRE</p></Link>

@@ -25,7 +25,7 @@ const Pathologies = () => {
                         <div className="page__box__text">
                             <h2> Pathologies</h2>
                             <p>
-                                Vous trouverez ci-dessous une liste des problèmes et pathologies pouvant être traités par les différentes techniques énergétiques énoncées.
+                                Vous trouverez ci-dessous une liste des problèmes et pathologies pouvant être traités par les différentes techniques énoncées.
                                 <br />
                                 <br />
                                 Pendant toute la durée des soins, un  <span className="bold">suivi régulier</span> est effectué afin de prendre connaissance des différentes phases de l’évolution vers la <span className="bold">guérison</span>.

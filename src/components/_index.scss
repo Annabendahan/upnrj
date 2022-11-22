@@ -68,6 +68,30 @@
     p {
         color: #383838;
     }
+    &__centered{ 
+        width: 90%;
+        margin: auto;
+        padding: 10px 0px;
+        @include breakpoint(m) {
+            width: 75%;
+            margin: auto;
+            padding: 30px 0px;
+        }
+        h2 {
+            text-align: center;
+        }
+        &__line{
+            display: block;
+            justify-content: space-between;
+            @include breakpoint(m) {
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+        &__text{
+            flex: 0 0 45%;
+        }
+    }
     &__content {
         width: 90%;
         margin: auto;
