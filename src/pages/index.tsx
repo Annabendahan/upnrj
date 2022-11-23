@@ -10,7 +10,7 @@ import p2 from '../images/accueil/p2.png'
 import p3 from '../images/accueil/p3.png'
 import p4 from '../images/accueil/p4.png'
 import p5 from '../images/accueil/p5.png'
-import p6 from '../images/accueil/p6.png'
+import p8 from '../images/accueil/p8.png'
 import pascal from '../images/pascal.png'
 
 
@@ -89,14 +89,15 @@ const IndexPage = () => {
               </Link>
             </div>
             <div className="page__soins__line">
-              <Link to="/acupression" className="page__soins__card">
-                <img src={p5} alt="main" />
-                <p>ACUPRESSION</p>
+              <Link to="/hypnose" className="page__soins__card">
+                <img src={p8} alt="main" />
+                <p>HYPNOSE</p>
 
               </Link>
-              <Link to="/fasciatherapie" className="page__soins__card">
-                <img src={p6} alt="main" />
-                <p>FASCIATHÉRAPIE</p>
+              <Link to="/acupression" className="page__soins__card">
+                <img src={p5} alt="main" />
+                <p>ACUPRESSION ET FASCIATHÉRAPIE</p>
+
               </Link>
             </div>
           </div>

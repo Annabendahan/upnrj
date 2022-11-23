@@ -68,7 +68,7 @@ cerveau. 
 <br /><br />
 Grâce à ses suggestions, le praticien peut <span className="bold">activer les capacités d’auto-guérison inhérentes à
 l’individu</span> tout en se frayant un chemin vers l’identification des éléments de sa vie qui ont de
-l’importance pour la thérapie. L’état de transe en hypnose est quelque peu différent des
+l’importance pour la thérapie. <br/><br/>L’état de transe en hypnose est quelque peu différent des
 autres EMC car il dissocie le conscient et l’inconscient. Ceci permet de <span className="bold">dépasser les blocages </span> 
 de la conscience pour pouvoir <span className="bold">accéder aisément au potentiel caché</span> que nous détenons
 tous.
