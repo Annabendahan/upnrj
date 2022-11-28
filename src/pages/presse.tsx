@@ -5,6 +5,8 @@ import mainMob from '../images/pr/main-mob.png'
 import p2 from '../images/pr/p2.png'
 import p3 from '../images/pr/p3.png'
 import p4 from '../images/pr/p4.png'
+import p5 from '../images/pr/p5.png'
+import p6 from '../images/pr/p6.png'
 import arrow from '../images/arrow.svg'
 
 
@@ -55,6 +57,24 @@ const Contact = () => {
                                 <div className="page__article__text">
                                     <h3>Ces thérapies qui promettent l’harmonie des énergies</h3><p>Champ vibratoire, biorésonnance et médecine quantique... Ces techniques alternatives qui nous promettent un bien-être augmenté font le buzz sur les réseaux sociaux. Petit manuel d’initiation au new "New Age".</p>
                                     <h5>Madame Figaro, 2021</h5>
+                                    <h6 >Lire l'article<img className="page__article__text__arrow" src={arrow} alt='/'></img></h6></div>
+                            </div>
+                        </a>
+                        <a target="_blank" href="https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2600706-hypnose-techniques-bienfaits-comment-ca-marche/">
+                            <div className="page__article">
+                                <img className="page__article__img" src={p5} alt="main" />
+                                <div className="page__article__text">
+                                    <h3>Hypnose : techniques, bienfaits, comment ça marche ?</h3><p>L'hypnose est un état naturel au cours duquel l'attention au monde extérieur est diminuée pour permettre à l'inconscient d'être plus présent et de percevoir de nouvelles ressources. Sous hypnose, il va être possible de gérer la douleur, la dépression, le stress, améliorer la confiance en soi...</p>
+                                    <h5>Le journal des femmes, 2020 </h5>
+                                    <h6 >Lire l'article<img className="page__article__text__arrow" src={arrow} alt='/'></img></h6></div>
+                            </div>
+                        </a>
+                        <a target="_blank" href="https://www.magicmaman.com/qu-est-ce-que-l-hypnose-ericksonienne-et-dans-quels-cas-y-avoir-recours,3635613.asp">
+                            <div className="page__article">
+                                <img className="page__article__img" src={p6} alt="main" />
+                                <div className="page__article__text">
+                                    <h3>Qu'est-ce que l'hypnose ericksonienne et dans quels cas y avoir recours ?</h3><p>Tabac, infertilité, poids, phobies... Les champs d'action de l'hypnothérapeute sont larges. Parmi les techniques reconnues, on entend souvent parler d'hypnose ericksonienne. Mais de quoi s'agit-il ? Et qui dans votre tribu peut être concerné par cette thérapie ?</p>
+                                    <h5>Magicmaman, 2020 </h5>
                                     <h6 >Lire l'article<img className="page__article__text__arrow" src={arrow} alt='/'></img></h6></div>
                             </div>
                         </a>

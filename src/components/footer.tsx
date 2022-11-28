@@ -1,5 +1,5 @@
 import * as React from "react"
-import logo from "../images/logo-w.svg"
+import logo from "../images/logoww.svg"
 import { Link } from 'gatsby';
 import ml from '../images/ML.pdf'
 
