@@ -1,5 +1,5 @@
 import * as React from "react"
-import logo from "../images/logosc.png"
+import logo from "../images/logoc.png"
 import { Link } from 'gatsby';
 import Menu from './menu'
 
