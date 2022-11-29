@@ -288,6 +288,18 @@
                 margin-left: 5px;
             }
         }
+        &__long{
+           display: none;
+            @include breakpoint(xl) {
+                display: block;
+            }
+        }
+        &__short{
+            display: block;
+            @include breakpoint(xl) {
+                display: none;
+            }
+        }
     }
 }
 

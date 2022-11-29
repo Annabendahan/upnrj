@@ -51,15 +51,7 @@ const Contact = () => {
                                 </div>
                             </div>
                         </a>
-                        <a target="_blank" href="https://madame.lefigaro.fr/bien-etre/bioresonnance-medecine-quantique-vibrations-ces-therapies-qui-promettent-lharmonie-des-energies-100721-197269">
-                            <div className="page__article">
-                                <img className="page__article__img" src={p4} alt="main" />
-                                <div className="page__article__text">
-                                    <h3>Ces thérapies qui promettent l’harmonie des énergies</h3><p>Champ vibratoire, biorésonnance et médecine quantique... Ces techniques alternatives qui nous promettent un bien-être augmenté font le buzz sur les réseaux sociaux. Petit manuel d’initiation au new "New Age".</p>
-                                    <h5>Madame Figaro, 2021</h5>
-                                    <h6 >Lire l'article<img className="page__article__text__arrow" src={arrow} alt='/'></img></h6></div>
-                            </div>
-                        </a>
+                     
                         <a target="_blank" href="https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2600706-hypnose-techniques-bienfaits-comment-ca-marche/">
                             <div className="page__article">
                                 <img className="page__article__img" src={p5} alt="main" />
@@ -73,7 +65,8 @@ const Contact = () => {
                             <div className="page__article">
                                 <img className="page__article__img" src={p6} alt="main" />
                                 <div className="page__article__text">
-                                    <h3>Qu'est-ce que l'hypnose ericksonienne et dans quels cas y avoir recours ?</h3><p>Tabac, infertilité, poids, phobies... Les champs d'action de l'hypnothérapeute sont larges. Parmi les techniques reconnues, on entend souvent parler d'hypnose ericksonienne. Mais de quoi s'agit-il ? Et qui dans votre tribu peut être concerné par cette thérapie ?</p>
+                                    <h3 className="page__article__long">Qu'est-ce que l'hypnose ericksonienne et dans quels cas y avoir recours ?</h3>
+                                    <h3 className="page__article__short">Qu'est-ce que l'hypnose ericksonienne et dans quels cas y avoir  <br/> recours ?</h3><p>Tabac, infertilité, poids, phobies... Les champs d'action de l'hypnothérapeute sont larges. Parmi les techniques reconnues, on entend souvent parler d'hypnose ericksonienne. Mais de quoi s'agit-il ? Et qui dans votre tribu peut être concerné par cette thérapie ?</p>
                                     <h5>Magicmaman, 2020 </h5>
                                     <h6 >Lire l'article<img className="page__article__text__arrow" src={arrow} alt='/'></img></h6></div>
                             </div>
