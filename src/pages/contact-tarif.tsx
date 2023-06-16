@@ -33,7 +33,7 @@ const Contact = () => {
                                     Mail: Upnrj@orange.fr   <br />
                                 </span>
                                 <br />
-                                Le tarif de la 1ère séance (1h30) et des séances suivantes (1h) est de 50€.
+                                Le tarif de la 1ère séance (1h30) et des séances suivantes (1h) est de 60€.
                                 <br /> <br />
                                 Merci de me contacter 5 minutes avant votre arrivée et de respecter l’heure de rendez-vous car je n’ai pas de salle d’attente.
                             </p>
