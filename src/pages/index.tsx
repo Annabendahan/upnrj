@@ -28,11 +28,9 @@ const IndexPage = () => {
             <div className="page__box__text">
               <h2> Vous n’êtes pas ici par hasard !</h2>
               <p>
-
                 Vous ressentez le besoin de trouver un moyen de soulager une douleur, accélérer une guérison ou simplement améliorer votre bien-être ?
                 Je peux vous y aider.
               </p>
-
             </div>
             <div className="page__box__img">
               <img src={p2} alt="main" />
