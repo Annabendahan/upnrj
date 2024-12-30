@@ -31,6 +31,7 @@ const Menu = () => {
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/fasciatherapie"><p>FASCIATHÉRAPIE</p></Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/memoire-cellulaire"><p>MÉMOIRE CÉLLULAIRE</p></Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/pathologies"><p>PATHOLOGIES </p></Link>
+                <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/pnltno"><p>PNL ET TNO </p> </Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/contact-tarif"><p>CONTACT ET TARIF</p> </Link>
                 <Link activeStyle={{ color: '#ec8074', fontWeight: 'bold' }} to="/presse"><p>PRESSE</p></Link></div> : ''}
 
